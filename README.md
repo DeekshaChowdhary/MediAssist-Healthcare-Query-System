@@ -125,5 +125,5 @@ MediAssist is for **educational and informational purposes only**. It is not a s
 ## 👩‍💻 Author
 
 **Deeksha Chowdhary** | B.Tech CSE (AI & ML), Malla Reddy University, Hyderabad  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/deekshachowdhary)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/deeksha-c-298598256/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/DeekshaChowdhary)
